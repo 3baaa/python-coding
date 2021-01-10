@@ -41,13 +41,3 @@ def solution(key, lock):
                         
     return False
 '''
-##뱀##
-#내가쓴 코드#
-n=int(input())
-k=int(input())
-a=[]
-for i in range(k):
-  a.append(tuple(map(int,input().split())))
-
-L=int(input())
-for i
