@@ -1,5 +1,6 @@
 ##DFS와 BFS
 #내가쓴 코드
+#결과 = 맞았습니다!!
 from collections import deque
 def dfs(v):
     if v1[v]:
