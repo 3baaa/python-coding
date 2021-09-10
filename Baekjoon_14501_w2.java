@@ -7,13 +7,7 @@ import java.util.*;
  * 내가쓴 코드
  * 
  */
-import java.util.*;
 
-/*
- * 퇴사
- * 내가쓴 코드
- * 
- */
 public class Baekjoon_14501_w2{
 
 	static int n;
