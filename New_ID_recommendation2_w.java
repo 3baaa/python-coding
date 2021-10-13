@@ -1,8 +1,12 @@
 package Kakao_upload;
 
+/*
+ * 신규 아이디 추천
+ * 내가쓴 코드(작성중)
+ */
 import java.util.regex.*;
 
-public class New_ID_recommendation2 {
+public class New_ID_recommendation2_w {
 
 	class Solution {
 	    public String solution(String new_id) {
